@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pipe Flow</string>
+    <string name="supply_temp_tv_text">Supply temperature Tr [°C]</string>
+    <string name="return_temp_tv_text">Return temperature Tp [°C]</string>
+    <string name="heat_capacity_tv_text">Heat capacity Q [W]</string>
+    <string name="volume_flow_m3h_tv_text">Volume flow V [m³/h]</string>
+    <string name="volume_flow_m3s_tv_text">Volume flow V [m³/s]</string>
+    <string name="volume_flow_lh_tv_text">Volume flow V [l/h]</string>
+    <string name="volume_flow_ls_tv_text">Volume flow V [l/s]</string>
+    <string name="mass_flow_kgh_tv_text">Mass flow G [kg/h]</string>
+    <string name="mass_flow_kgs_tv_text">Mass flow G [kg/s]</string>
+    <string name="outer_diameter_tv_text">Outer pipe diameter Ds [mm]</string>
+    <string name="wall_thickness_tv_text">Pipe wall thickness S [mm]</string>
+    <string name="roughness_tv_text">Pipe material roughness k [mm]</string>
+    <string name="fluid_velocity_tv_text">Fluid velocity W [m/s]</string>
+    <string name="pressure_drop_tv_text">Pressure drop R [Pa/m]</string>
+    <string name="density_tv_text">Density Ro [kg/m³]</string>
+    <string name="specific_heat_capacity_tv_text">Specific heat capacity Cp [J/kgK]</string>
+    <string name="viscosity_tv_text">Viscosity Ni [m²/s]</string>
+    <string name="friction_coefficient_tv_text">Friction coefficient</string>
+    <string name="calc_btn_text">Calculate</string>
+    <string name="clear_btn_text">Clear all</string>
+</resources>
